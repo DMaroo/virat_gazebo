@@ -7,7 +7,7 @@
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>500 500</size>
+            <size>50 50</size>
           </plane>
         </geometry>
         <surface>
@@ -21,13 +21,13 @@
       </collision>
 
       <visual name='visual00'>
-        <pose>-200 200 0 0 0 0</pose>
+        <pose>-20 20 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -40,13 +40,13 @@
       </visual>
 
 	  <visual name='visual01'>
-        <pose>-100 200 0 0 0 0</pose>
+        <pose>-10 20 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -59,13 +59,13 @@
       </visual>
 
 	  <visual name='visual02'>
-        <pose>0 200 0 0 0 0</pose>
+        <pose>0 20 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -78,13 +78,13 @@
       </visual>
 
 	  <visual name='visual03'>
-        <pose>100 200 0 0 0 0</pose>
+        <pose>10 20 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -97,13 +97,13 @@
       </visual>
 
 	  <visual name='visual04'>
-        <pose>200 200 0 0 0 0</pose>
+        <pose>20 20 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -116,13 +116,13 @@
       </visual>
 
 	  <visual name='visual10'>
-        <pose>-200 100 0 0 0 0</pose>
+        <pose>-20 10 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -135,13 +135,13 @@
       </visual>
 
 	  <visual name='visual11'>
-        <pose>-100 100 0 0 0 0</pose>
+        <pose>-10 10 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -154,13 +154,13 @@
       </visual>
 
 	  <visual name='visual12'>
-        <pose>0 100 0 0 0 0</pose>
+        <pose>0 10 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -173,13 +173,13 @@
       </visual>
 
 	  <visual name='visual13'>
-        <pose>100 100 0 0 0 0</pose>
+        <pose>10 10 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -192,13 +192,13 @@
       </visual>
 
 	  <visual name='visual14'>
-        <pose>200 100 0 0 0 0</pose>
+        <pose>20 10 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -211,13 +211,13 @@
       </visual>
 
 	  <visual name='visual20'>
-        <pose>-200 0 0 0 0 0</pose>
+        <pose>-20 0 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -230,13 +230,13 @@
       </visual>
 
 	  <visual name='visual21'>
-        <pose>-100 0 0 0 0 0</pose>
+        <pose>-10 0 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -255,7 +255,7 @@
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -268,13 +268,13 @@
       </visual>
 
 	  <visual name='visual23'>
-        <pose>100 0 0 0 0 0</pose>
+        <pose>10 0 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -287,13 +287,13 @@
       </visual>
 
 	  <visual name='visual24'>
-        <pose>200 0 0 0 0 0</pose>
+        <pose>20 0 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -306,13 +306,13 @@
       </visual>
 
 	  <visual name='visual30'>
-        <pose>-200 -100 0 0 0 0</pose>
+        <pose>-20 -10 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -325,13 +325,13 @@
       </visual>
 
 	  <visual name='visual31'>
-        <pose>-100 -100 0 0 0 0</pose>
+        <pose>-10 -10 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -344,13 +344,13 @@
       </visual>
 
 	  <visual name='visual32'>
-        <pose>0 -100 0 0 0 0</pose>
+        <pose>0 -10 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -363,13 +363,13 @@
       </visual>
 
 	  <visual name='visual33'>
-        <pose>100 -100 0 0 0 0</pose>
+        <pose>10 -10 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -382,13 +382,13 @@
       </visual>
 
 	  <visual name='visual34'>
-        <pose>200 -100 0 0 0 0</pose>
+        <pose>20 -10 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -401,13 +401,13 @@
       </visual>
 
 	  <visual name='visual40'>
-        <pose>-200 -200 0 0 0 0</pose>
+        <pose>-20 -20 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -420,13 +420,13 @@
       </visual>
 
 	  <visual name='visual41'>
-        <pose>-100 -200 0 0 0 0</pose>
+        <pose>-10 -20 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -439,13 +439,13 @@
       </visual>
 
 	  <visual name='visual42'>
-        <pose>0 -200 0 0 0 0</pose>
+        <pose>0 -20 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -458,13 +458,13 @@
       </visual>
 
 	  <visual name='visual43'>
-        <pose>100 -200 0 0 0 0</pose>
+        <pose>10 -20 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
@@ -477,13 +477,13 @@
       </visual>
 
 	  <visual name='visual44'>
-        <pose>200 -200 0 0 0 0</pose>
+        <pose>20 -20 0 0 0 0</pose>
 
         <cast_shadows>false</cast_shadows>
         <geometry>
           <plane>
             <normal>0 0 1</normal>
-            <size>100 100</size>
+            <size>10 10</size>
           </plane>
         </geometry>
         <material>
