@@ -52,6 +52,7 @@
 	<build_export_depend>roscpp</build_export_depend>
 	<build_depend>roscpp</build_depend>
 	<depend>gazebo_ros</depend>
+	<exec_depend>virat_description</exec_depend>
 	<exec_depend>roscpp</exec_depend>
 	<exec_depend>gazebo</exec_depend>
 
