@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <launch>
+	<include file="$(find virat_potholes)/launch/grass_world.launch" />
 	<param name="robot_description" command="cat '$(find virat_description)/urdf/virat.urdf'" />
 
 	<arg name="x" default="0" />
