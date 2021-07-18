@@ -1,4 +1,4 @@
-# virat_potholes
+# virat_gazebo
 
 Gazebo and ROS integration of Abhiyaan's VIRAT model, used for detecting potholes (IGVC challenge)
 
@@ -7,19 +7,11 @@ Gazebo and ROS integration of Abhiyaan's VIRAT model, used for detecting pothole
 To launch the `grass_plane` world, run
 
 ```
-roslaunch virat_potholes grass_world.launch
+roslaunch virat_gazebo grass_world.launch
 ```
 
 To launch VIRAT in the `grass_plane` world, run
 
 ```
-roslaunch virat_potholes spawn_virat.launch
-```
-
-## Navigation
-
-To navigate, first of all launch the `spawn_virat.launch` file. Now in a new terminal, run
-
-```
-rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+roslaunch virat_gazebo virat_gazebo.launch
 ```

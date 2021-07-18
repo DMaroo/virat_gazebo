@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-	<name>virat_potholes</name>
+	<name>virat_gazebo</name>
 	<version>0.0.0</version>
-	<description>The virat_potholes package</description>
+	<description>The virat_gazebo package</description>
 
 	<!-- One maintainer tag required, multiple allowed, one person per tag -->
 	<!-- Example:  -->
